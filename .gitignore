@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom iles
+data/GameofThrones.csv
+data/reddit_database.csv
+
 # Distribution / packaging
 .Python
 build/
